@@ -1,2 +1,2 @@
 # Joe-s-Pizza-Place
-Assignment 3
+CWMD 1500 Assignment 3
