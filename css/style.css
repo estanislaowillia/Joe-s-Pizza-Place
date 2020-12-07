@@ -4,3 +4,16 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.menu {
+    margin: 50px;
+}
+
+.btn {
+    margin: 20px auto auto 50px;
+}
